@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TexMind-XML>
+  <GuiColours colour1="255;255;255;255;" colour2="0;255;0;255;"/>
+  <Machine Occupation_Slots_per_OneCarrier="2" NrSlotsperHG="4" NrGears="8" IsFancyBraid="" Floating_L_per_HG="2:2:">
+    <Track_1 YarnTypeIndex="1;1;1;1;1;1;1;1;"/>
+    <Track_0 YarnTypeIndex="1;1;1;1;1;1;1;1;"/>
+  </Machine>
+  <Braid Type="Tubular" NumberYarnsTotal="16" NumberYarns1System="8" Yarn_d1="1.000000" Yarn_d2="1.000000" Tt="0.000000" SpaceBetween="0.100000" BraidAngle="0.785398" PPC="2.946278" L_D="6.283185" RadiusNominal="4.321518" RadiusUser="4.321518" RadiusTypeUser="0" WidthNominal="0.000000" WidthOuther="0.000000" WidthType="0" Fl_Length="2" Yarns_in_groups="1" BraidLength="20.000000"/>
+  <Document>
+    <Version>2015_04</Version>
+    <Type>StandardBraid</Type>
+  </Document>
+  <YarnsData NumberYarnsTotal="8">
+    <YarnType Type="Yarn" Remarks="Yarn saved from TexMind XML Format" Version="V2.0">
+      <Common YarnTypeNumber="0" Name="A"/>
+      <Fibre-0>
+        <General>
+          <conductive></conductive>
+          <om_per_meter>0.000000</om_per_meter>
+          <LineWidth>2</LineWidth>
+          <kTshrink>1.000000</kTshrink>
+          <kT>1.000000</kT>
+          <T>110.000000</T>
+          <ro>1.300000</ro>
+          <f>0.300000</f>
+          <d>1.000000</d>
+          <Color>-1315209776</Color>
+          <Title>new fiber</Title>
+        </General>
+        <Mechanical>
+          <Pot>1.00000</Pot>
+          <Po>1.00000</Po>
+          <P>1.00000</P>
+          <Gt>1.00000</Gt>
+          <G>1.00000</G>
+          <Et>1.00000</Et>
+          <eps>5.00000</eps>
+          <tension>0.00000</tension>
+          <E>1.00000</E>
+        </Mechanical>
+        <TextileTesting>
+          <ECompression>1.00000</ECompression>
+          <EI>1.00000</EI>
+          <F_1>0.00000</F_1>
+          <e_1>10.00000</e_1>
+          <e_break>0.00000</e_break>
+          <KF_break>1.00000</KF_break>
+          <F_break>10.00000</F_break>
+          <EA>1.00000</EA>
+        </TextileTesting>
+        <Colour>
+          <Opacity>1.000000</Opacity>
+          <SpecularPower>0.000000</SpecularPower>
+          <SpecularCoef>0.000000</SpecularCoef>
+          <DiffuseCoef>1.000000</DiffuseCoef>
+          <BlueSpec>0</BlueSpec>
+          <GreenSpec>0</GreenSpec>
+          <RedSpec>0</RedSpec>
+          <BlueDiffuse>255</BlueDiffuse>
+          <GreenDiffuse>0</GreenDiffuse>
+          <RedDiffuse>0</RedDiffuse>
+          <LineBlue>0</LineBlue>
+          <LineGreen>16</LineGreen>
+          <LineRed>611</LineRed>
+          <Blue>255</Blue>
+          <Green>255</Green>
+          <Red>255</Red>
+        </Colour>
+      </Fibre-0>
+      <Store StoreCode="0" Producer="" Remark=""/>
+      <CrossSection CrossSectionType="0"/>
+      <FiberTypes/>
+    </YarnType>
+    <YarnType Type="Yarn" Remarks="Yarn saved from TexMind XML Format" Version="V2.0">
+      <Common YarnTypeNumber="1" Name="A"/>
+      <Fibre-0>
+        <General>
+          <conductive></conductive>
+          <om_per_meter>0.000000</om_per_meter>
+          <LineWidth>2</LineWidth>
+          <kTshrink>1.000000</kTshrink>
+          <kT>1.000000</kT>
+          <T>110.000000</T>
+          <ro>1.300000</ro>
+          <f>0.300000</f>
+          <d>1.000000</d>
+          <Color>-1315209776</Color>
+          <Title>new fiber</Title>
+        </General>
+        <Mechanical>
+          <Pot>1.00000</Pot>
+          <Po>1.00000</Po>
+          <P>1.00000</P>
+          <Gt>1.00000</Gt>
+          <G>1.00000</G>
+          <Et>1.00000</Et>
+          <eps>5.00000</eps>
+          <tension>0.00000</tension>
+          <E>1.00000</E>
+        </Mechanical>
+        <TextileTesting>
+          <ECompression>1.00000</ECompression>
+          <EI>1.00000</EI>
+          <F_1>0.00000</F_1>
+          <e_1>10.00000</e_1>
+          <e_break>0.00000</e_break>
+          <KF_break>1.00000</KF_break>
+          <F_break>10.00000</F_break>
+          <EA>1.00000</EA>
+        </TextileTesting>
+        <Colour>
+          <Opacity>1.000000</Opacity>
+          <SpecularPower>0.000000</SpecularPower>
+          <SpecularCoef>0.000000</SpecularCoef>
+          <DiffuseCoef>1.000000</DiffuseCoef>
+          <BlueSpec>0</BlueSpec>
+          <GreenSpec>0</GreenSpec>
+          <RedSpec>0</RedSpec>
+          <BlueDiffuse>255</BlueDiffuse>
+          <GreenDiffuse>0</GreenDiffuse>
+          <RedDiffuse>0</RedDiffuse>
+          <LineBlue>0</LineBlue>
+          <LineGreen>16</LineGreen>
+          <LineRed>611</LineRed>
+          <Blue>255</Blue>
+          <Green>255</Green>
+          <Red>255</Red>
+        </Colour>
+      </Fibre-0>
+      <Store StoreCode="0" Producer="" Remark=""/>
+      <CrossSection CrossSectionType="0"/>
+      <FiberTypes/>
+    </YarnType>
+    <YarnType Type="Yarn" Remarks="Yarn saved from TexMind XML Format" Version="V2.0">
+      <Common YarnTypeNumber="2" Name="A"/>
+      <Fibre-0>
+        <General>
+          <conductive></conductive>
+          <om_per_meter>0.000000</om_per_meter>
+          <LineWidth>2</LineWidth>
+          <kTshrink>1.000000</kTshrink>
+          <kT>1.000000</kT>
+          <T>110.000000</T>
+          <ro>1.300000</ro>
+          <f>0.300000</f>
+          <d>1.000000</d>
+          <Color>-1315209776</Color>
+          <Title>new fiber</Title>
+        </General>
+        <Mechanical>
+          <Pot>1.00000</Pot>
+          <Po>1.00000</Po>
+          <P>1.00000</P>
+          <Gt>1.00000</Gt>
+          <G>1.00000</G>
+          <Et>1.00000</Et>
+          <eps>5.00000</eps>
+          <tension>0.00000</tension>
+          <E>1.00000</E>
+        </Mechanical>
+        <TextileTesting>
+          <ECompression>1.00000</ECompression>
+          <EI>1.00000</EI>
+          <F_1>0.00000</F_1>
+          <e_1>10.00000</e_1>
+          <e_break>0.00000</e_break>
+          <KF_break>1.00000</KF_break>
+          <F_break>10.00000</F_break>
+          <EA>1.00000</EA>
+        </TextileTesting>
+        <Colour>
+          <Opacity>1.000000</Opacity>
+          <SpecularPower>0.000000</SpecularPower>
+          <SpecularCoef>0.000000</SpecularCoef>
+          <DiffuseCoef>1.000000</DiffuseCoef>
+          <BlueSpec>0</BlueSpec>
+          <GreenSpec>0</GreenSpec>
+          <RedSpec>0</RedSpec>
+          <BlueDiffuse>255</BlueDiffuse>
+          <GreenDiffuse>0</GreenDiffuse>
+          <RedDiffuse>0</RedDiffuse>
+          <LineBlue>0</LineBlue>
+          <LineGreen>16</LineGreen>
+          <LineRed>611</LineRed>
+          <Blue>255</Blue>
+          <Green>255</Green>
+          <Red>255</Red>
+        </Colour>
+      </Fibre-0>
+      <Store StoreCode="0" Producer="" Remark=""/>
+      <CrossSection CrossSectionType="0"/>
+      <FiberTypes/>
+    </YarnType>
+    <YarnType Type="Yarn" Remarks="Yarn saved from TexMind XML Format" Version="V2.0">
+      <Common YarnTypeNumber="3" Name="A"/>
+      <Fibre-0>
+        <General>
+          <conductive></conductive>
+          <om_per_meter>0.000000</om_per_meter>
+          <LineWidth>2</LineWidth>
+          <kTshrink>1.000000</kTshrink>
+          <kT>1.000000</kT>
+          <T>110.000000</T>
+          <ro>1.300000</ro>
+          <f>0.300000</f>
+          <d>1.000000</d>
+          <Color>-1315209776</Color>
+          <Title>new fiber</Title>
+        </General>
+        <Mechanical>
+          <Pot>1.00000</Pot>
+          <Po>1.00000</Po>
+          <P>1.00000</P>
+          <Gt>1.00000</Gt>
+          <G>1.00000</G>
+          <Et>1.00000</Et>
+          <eps>5.00000</eps>
+          <tension>0.00000</tension>
+          <E>1.00000</E>
+        </Mechanical>
+        <TextileTesting>
+          <ECompression>1.00000</ECompression>
+          <EI>1.00000</EI>
+          <F_1>0.00000</F_1>
+          <e_1>10.00000</e_1>
+          <e_break>0.00000</e_break>
+          <KF_break>1.00000</KF_break>
+          <F_break>10.00000</F_break>
+          <EA>1.00000</EA>
+        </TextileTesting>
+        <Colour>
+          <Opacity>1.000000</Opacity>
+          <SpecularPower>0.000000</SpecularPower>
+          <SpecularCoef>0.000000</SpecularCoef>
+          <DiffuseCoef>1.000000</DiffuseCoef>
+          <BlueSpec>0</BlueSpec>
+          <GreenSpec>0</GreenSpec>
+          <RedSpec>0</RedSpec>
+          <BlueDiffuse>255</BlueDiffuse>
+          <GreenDiffuse>0</GreenDiffuse>
+          <RedDiffuse>0</RedDiffuse>
+          <LineBlue>0</LineBlue>
+          <LineGreen>16</LineGreen>
+          <LineRed>611</LineRed>
+          <Blue>255</Blue>
+          <Green>255</Green>
+          <Red>255</Red>
+        </Colour>
+      </Fibre-0>
+      <Store StoreCode="0" Producer="" Remark=""/>
+      <CrossSection CrossSectionType="0"/>
+      <FiberTypes/>
+    </YarnType>
+    <YarnType Type="Yarn" Remarks="Yarn saved from TexMind XML Format" Version="V2.0">
+      <Common YarnTypeNumber="4" Name="A"/>
+      <Fibre-0>
+        <General>
+          <conductive></conductive>
+          <om_per_meter>0.000000</om_per_meter>
+          <LineWidth>2</LineWidth>
+          <kTshrink>1.000000</kTshrink>
+          <kT>1.000000</kT>
+          <T>110.000000</T>
+          <ro>1.300000</ro>
+          <f>0.300000</f>
+          <d>1.000000</d>
+          <Color>-1315209776</Color>
+          <Title>new fiber</Title>
+        </General>
+        <Mechanical>
+          <Pot>1.00000</Pot>
+          <Po>1.00000</Po>
+          <P>1.00000</P>
+          <Gt>1.00000</Gt>
+          <G>1.00000</G>
+          <Et>1.00000</Et>
+          <eps>5.00000</eps>
+          <tension>0.00000</tension>
+          <E>1.00000</E>
+        </Mechanical>
+        <TextileTesting>
+          <ECompression>1.00000</ECompression>
+          <EI>1.00000</EI>
+          <F_1>0.00000</F_1>
+          <e_1>10.00000</e_1>
+          <e_break>0.00000</e_break>
+          <KF_break>1.00000</KF_break>
+          <F_break>10.00000</F_break>
+          <EA>1.00000</EA>
+        </TextileTesting>
+        <Colour>
+          <Opacity>1.000000</Opacity>
+          <SpecularPower>0.000000</SpecularPower>
+          <SpecularCoef>0.000000</SpecularCoef>
+          <DiffuseCoef>1.000000</DiffuseCoef>
+          <BlueSpec>0</BlueSpec>
+          <GreenSpec>0</GreenSpec>
+          <RedSpec>0</RedSpec>
+          <BlueDiffuse>255</BlueDiffuse>
+          <GreenDiffuse>0</GreenDiffuse>
+          <RedDiffuse>0</RedDiffuse>
+          <LineBlue>0</LineBlue>
+          <LineGreen>16</LineGreen>
+          <LineRed>611</LineRed>
+          <Blue>255</Blue>
+          <Green>255</Green>
+          <Red>255</Red>
+        </Colour>
+      </Fibre-0>
+      <Store StoreCode="0" Producer="" Remark=""/>
+      <CrossSection CrossSectionType="0"/>
+      <FiberTypes/>
+    </YarnType>
+    <YarnType Type="Yarn" Remarks="Yarn saved from TexMind XML Format" Version="V2.0">
+      <Common YarnTypeNumber="5" Name="A"/>
+      <Fibre-0>
+        <General>
+          <conductive></conductive>
+          <om_per_meter>0.000000</om_per_meter>
+          <LineWidth>2</LineWidth>
+          <kTshrink>1.000000</kTshrink>
+          <kT>1.000000</kT>
+          <T>110.000000</T>
+          <ro>1.300000</ro>
+          <f>0.300000</f>
+          <d>1.000000</d>
+          <Color>-1315209776</Color>
+          <Title>new fiber</Title>
+        </General>
+        <Mechanical>
+          <Pot>1.00000</Pot>
+          <Po>1.00000</Po>
+          <P>1.00000</P>
+          <Gt>1.00000</Gt>
+          <G>1.00000</G>
+          <Et>1.00000</Et>
+          <eps>5.00000</eps>
+          <tension>0.00000</tension>
+          <E>1.00000</E>
+        </Mechanical>
+        <TextileTesting>
+          <ECompression>1.00000</ECompression>
+          <EI>1.00000</EI>
+          <F_1>0.00000</F_1>
+          <e_1>10.00000</e_1>
+          <e_break>0.00000</e_break>
+          <KF_break>1.00000</KF_break>
+          <F_break>10.00000</F_break>
+          <EA>1.00000</EA>
+        </TextileTesting>
+        <Colour>
+          <Opacity>1.000000</Opacity>
+          <SpecularPower>0.000000</SpecularPower>
+          <SpecularCoef>0.000000</SpecularCoef>
+          <DiffuseCoef>1.000000</DiffuseCoef>
+          <BlueSpec>0</BlueSpec>
+          <GreenSpec>0</GreenSpec>
+          <RedSpec>0</RedSpec>
+          <BlueDiffuse>255</BlueDiffuse>
+          <GreenDiffuse>0</GreenDiffuse>
+          <RedDiffuse>0</RedDiffuse>
+          <LineBlue>0</LineBlue>
+          <LineGreen>16</LineGreen>
+          <LineRed>611</LineRed>
+          <Blue>255</Blue>
+          <Green>255</Green>
+          <Red>255</Red>
+        </Colour>
+      </Fibre-0>
+      <Store StoreCode="0" Producer="" Remark=""/>
+      <CrossSection CrossSectionType="0"/>
+      <FiberTypes/>
+    </YarnType>
+    <YarnType Type="Yarn" Remarks="Yarn saved from TexMind XML Format" Version="V2.0">
+      <Common YarnTypeNumber="6" Name="A"/>
+      <Fibre-0>
+        <General>
+          <conductive></conductive>
+          <om_per_meter>0.000000</om_per_meter>
+          <LineWidth>2</LineWidth>
+          <kTshrink>1.000000</kTshrink>
+          <kT>1.000000</kT>
+          <T>110.000000</T>
+          <ro>1.300000</ro>
+          <f>0.300000</f>
+          <d>1.000000</d>
+          <Color>-1315209776</Color>
+          <Title>new fiber</Title>
+        </General>
+        <Mechanical>
+          <Pot>1.00000</Pot>
+          <Po>1.00000</Po>
+          <P>1.00000</P>
+          <Gt>1.00000</Gt>
+          <G>1.00000</G>
+          <Et>1.00000</Et>
+          <eps>5.00000</eps>
+          <tension>0.00000</tension>
+          <E>1.00000</E>
+        </Mechanical>
+        <TextileTesting>
+          <ECompression>1.00000</ECompression>
+          <EI>1.00000</EI>
+          <F_1>0.00000</F_1>
+          <e_1>10.00000</e_1>
+          <e_break>0.00000</e_break>
+          <KF_break>1.00000</KF_break>
+          <F_break>10.00000</F_break>
+          <EA>1.00000</EA>
+        </TextileTesting>
+        <Colour>
+          <Opacity>1.000000</Opacity>
+          <SpecularPower>0.000000</SpecularPower>
+          <SpecularCoef>0.000000</SpecularCoef>
+          <DiffuseCoef>1.000000</DiffuseCoef>
+          <BlueSpec>0</BlueSpec>
+          <GreenSpec>0</GreenSpec>
+          <RedSpec>0</RedSpec>
+          <BlueDiffuse>255</BlueDiffuse>
+          <GreenDiffuse>0</GreenDiffuse>
+          <RedDiffuse>0</RedDiffuse>
+          <LineBlue>0</LineBlue>
+          <LineGreen>16</LineGreen>
+          <LineRed>611</LineRed>
+          <Blue>255</Blue>
+          <Green>255</Green>
+          <Red>255</Red>
+        </Colour>
+      </Fibre-0>
+      <Store StoreCode="0" Producer="" Remark=""/>
+      <CrossSection CrossSectionType="0"/>
+      <FiberTypes/>
+    </YarnType>
+    <YarnType Type="Yarn" Remarks="Yarn saved from TexMind XML Format" Version="V2.0">
+      <Common YarnTypeNumber="7" Name="A"/>
+      <Fibre-0>
+        <General>
+          <conductive></conductive>
+          <om_per_meter>0.000000</om_per_meter>
+          <LineWidth>2</LineWidth>
+          <kTshrink>1.000000</kTshrink>
+          <kT>1.000000</kT>
+          <T>110.000000</T>
+          <ro>1.300000</ro>
+          <f>0.300000</f>
+          <d>1.000000</d>
+          <Color>-1315209776</Color>
+          <Title>new fiber</Title>
+        </General>
+        <Mechanical>
+          <Pot>1.00000</Pot>
+          <Po>1.00000</Po>
+          <P>1.00000</P>
+          <Gt>1.00000</Gt>
+          <G>1.00000</G>
+          <Et>1.00000</Et>
+          <eps>5.00000</eps>
+          <tension>0.00000</tension>
+          <E>1.00000</E>
+        </Mechanical>
+        <TextileTesting>
+          <ECompression>1.00000</ECompression>
+          <EI>1.00000</EI>
+          <F_1>0.00000</F_1>
+          <e_1>10.00000</e_1>
+          <e_break>0.00000</e_break>
+          <KF_break>1.00000</KF_break>
+          <F_break>10.00000</F_break>
+          <EA>1.00000</EA>
+        </TextileTesting>
+        <Colour>
+          <Opacity>1.000000</Opacity>
+          <SpecularPower>0.000000</SpecularPower>
+          <SpecularCoef>0.000000</SpecularCoef>
+          <DiffuseCoef>1.000000</DiffuseCoef>
+          <BlueSpec>0</BlueSpec>
+          <GreenSpec>0</GreenSpec>
+          <RedSpec>0</RedSpec>
+          <BlueDiffuse>255</BlueDiffuse>
+          <GreenDiffuse>0</GreenDiffuse>
+          <RedDiffuse>0</RedDiffuse>
+          <LineBlue>0</LineBlue>
+          <LineGreen>16</LineGreen>
+          <LineRed>611</LineRed>
+          <Blue>255</Blue>
+          <Green>255</Green>
+          <Red>255</Red>
+        </Colour>
+      </Fibre-0>
+      <Store StoreCode="0" Producer="" Remark=""/>
+      <CrossSection CrossSectionType="0"/>
+      <FiberTypes/>
+    </YarnType>
+  </YarnsData>
+</TexMind-XML>
