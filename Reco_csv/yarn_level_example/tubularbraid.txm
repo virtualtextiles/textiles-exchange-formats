@@ -1,0 +1,1573 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<TextileStructure>
+    <mName value="Tubular Braid" />
+    <numberOfYarnGroups value="4" />
+    <YarnGroup>
+        <mName value="Group_0" />
+        <numberOfYarns value="8" />
+        <Yarn>
+            <mName value="G0_Carrier_1" />
+            <numberOfFibres value="1" />
+            <Fibre>
+                <mName value="Gr_0_Car_1_F_0" />
+                <mDiameter value="1" />
+                <mRed value="128" />
+                <mGreen value="128" />
+                <mBlue value="255" />
+                <numberOfPoints value="17" />
+                <Point>
+                    <mX value="2.55" />
+                    <mY value="0" />
+                    <mZ value="0.785398" />
+                </Point>
+                <Point>
+                    <mX value="2.35589" />
+                    <mY value="0.975843" />
+                    <mZ value="1.5708" />
+                </Point>
+                <Point>
+                    <mX value="1.0253" />
+                    <mY value="1.0253" />
+                    <mZ value="2.35619" />
+                </Point>
+                <Point>
+                    <mX value="0.554891" />
+                    <mY value="1.33963" />
+                    <mZ value="3.14159" />
+                </Point>
+                <Point>
+                    <mX value="1.56142e-16" />
+                    <mY value="2.55" />
+                    <mZ value="3.92699" />
+                </Point>
+                <Point>
+                    <mX value="-0.975843" />
+                    <mY value="2.35589" />
+                    <mZ value="4.71239" />
+                </Point>
+                <Point>
+                    <mX value="-1.0253" />
+                    <mY value="1.0253" />
+                    <mZ value="5.49779" />
+                </Point>
+                <Point>
+                    <mX value="-1.33963" />
+                    <mY value="0.554891" />
+                    <mZ value="6.28319" />
+                </Point>
+                <Point>
+                    <mX value="-2.55" />
+                    <mY value="3.12285e-16" />
+                    <mZ value="7.06858" />
+                </Point>
+                <Point>
+                    <mX value="-2.35589" />
+                    <mY value="-0.975843" />
+                    <mZ value="7.85398" />
+                </Point>
+                <Point>
+                    <mX value="-1.0253" />
+                    <mY value="-1.0253" />
+                    <mZ value="8.63938" />
+                </Point>
+                <Point>
+                    <mX value="-0.554891" />
+                    <mY value="-1.33963" />
+                    <mZ value="9.42478" />
+                </Point>
+                <Point>
+                    <mX value="-4.68427e-16" />
+                    <mY value="-2.55" />
+                    <mZ value="10.2102" />
+                </Point>
+                <Point>
+                    <mX value="0.975843" />
+                    <mY value="-2.35589" />
+                    <mZ value="10.9956" />
+                </Point>
+                <Point>
+                    <mX value="1.0253" />
+                    <mY value="-1.0253" />
+                    <mZ value="11.781" />
+                </Point>
+                <Point>
+                    <mX value="1.33963" />
+                    <mY value="-0.554891" />
+                    <mZ value="12.5664" />
+                </Point>
+                <Point>
+                    <mX value="2.55" />
+                    <mY value="0" />
+                    <mZ value="13.3518" />
+                </Point>
+            </Fibre>
+        </Yarn>
+        <Yarn>
+            <mName value="G0_Carrier_2" />
+            <numberOfFibres value="1" />
+            <Fibre>
+                <mName value="Gr_0_Car_2_F_0" />
+                <mDiameter value="1" />
+                <mRed value="128" />
+                <mGreen value="128" />
+                <mBlue value="255" />
+                <numberOfPoints value="17" />
+                <Point>
+                    <mX value="1.0253" />
+                    <mY value="1.0253" />
+                    <mZ value="0.785398" />
+                </Point>
+                <Point>
+                    <mX value="0.554891" />
+                    <mY value="1.33963" />
+                    <mZ value="1.5708" />
+                </Point>
+                <Point>
+                    <mX value="1.56142e-16" />
+                    <mY value="2.55" />
+                    <mZ value="2.35619" />
+                </Point>
+                <Point>
+                    <mX value="-0.975843" />
+                    <mY value="2.35589" />
+                    <mZ value="3.14159" />
+                </Point>
+                <Point>
+                    <mX value="-1.0253" />
+                    <mY value="1.0253" />
+                    <mZ value="3.92699" />
+                </Point>
+                <Point>
+                    <mX value="-1.33963" />
+                    <mY value="0.554891" />
+                    <mZ value="4.71239" />
+                </Point>
+                <Point>
+                    <mX value="-2.55" />
+                    <mY value="3.12285e-16" />
+                    <mZ value="5.49779" />
+                </Point>
+                <Point>
+                    <mX value="-2.35589" />
+                    <mY value="-0.975843" />
+                    <mZ value="6.28319" />
+                </Point>
+                <Point>
+                    <mX value="-1.0253" />
+                    <mY value="-1.0253" />
+                    <mZ value="7.06858" />
+                </Point>
+                <Point>
+                    <mX value="-0.554891" />
+                    <mY value="-1.33963" />
+                    <mZ value="7.85398" />
+                </Point>
+                <Point>
+                    <mX value="-4.68427e-16" />
+                    <mY value="-2.55" />
+                    <mZ value="8.63938" />
+                </Point>
+                <Point>
+                    <mX value="0.975843" />
+                    <mY value="-2.35589" />
+                    <mZ value="9.42478" />
+                </Point>
+                <Point>
+                    <mX value="1.0253" />
+                    <mY value="-1.0253" />
+                    <mZ value="10.2102" />
+                </Point>
+                <Point>
+                    <mX value="1.33963" />
+                    <mY value="-0.554891" />
+                    <mZ value="10.9956" />
+                </Point>
+                <Point>
+                    <mX value="2.55" />
+                    <mY value="0" />
+                    <mZ value="11.781" />
+                </Point>
+                <Point>
+                    <mX value="2.35589" />
+                    <mY value="0.975843" />
+                    <mZ value="12.5664" />
+                </Point>
+                <Point>
+                    <mX value="1.0253" />
+                    <mY value="1.0253" />
+                    <mZ value="13.3518" />
+                </Point>
+            </Fibre>
+        </Yarn>
+        <Yarn>
+            <mName value="G0_Carrier_3" />
+            <numberOfFibres value="1" />
+            <Fibre>
+                <mName value="Gr_0_Car_3_F_0" />
+                <mDiameter value="1" />
+                <mRed value="128" />
+                <mGreen value="128" />
+                <mBlue value="255" />
+                <numberOfPoints value="17" />
+                <Point>
+                    <mX value="1.56142e-16" />
+                    <mY value="2.55" />
+                    <mZ value="0.785398" />
+                </Point>
+                <Point>
+                    <mX value="-0.975843" />
+                    <mY value="2.35589" />
+                    <mZ value="1.5708" />
+                </Point>
+                <Point>
+                    <mX value="-1.0253" />
+                    <mY value="1.0253" />
+                    <mZ value="2.35619" />
+                </Point>
+                <Point>
+                    <mX value="-1.33963" />
+                    <mY value="0.554891" />
+                    <mZ value="3.14159" />
+                </Point>
+                <Point>
+                    <mX value="-2.55" />
+                    <mY value="3.12285e-16" />
+                    <mZ value="3.92699" />
+                </Point>
+                <Point>
+                    <mX value="-2.35589" />
+                    <mY value="-0.975843" />
+                    <mZ value="4.71239" />
+                </Point>
+                <Point>
+                    <mX value="-1.0253" />
+                    <mY value="-1.0253" />
+                    <mZ value="5.49779" />
+                </Point>
+                <Point>
+                    <mX value="-0.554891" />
+                    <mY value="-1.33963" />
+                    <mZ value="6.28319" />
+                </Point>
+                <Point>
+                    <mX value="-4.68427e-16" />
+                    <mY value="-2.55" />
+                    <mZ value="7.06858" />
+                </Point>
+                <Point>
+                    <mX value="0.975843" />
+                    <mY value="-2.35589" />
+                    <mZ value="7.85398" />
+                </Point>
+                <Point>
+                    <mX value="1.0253" />
+                    <mY value="-1.0253" />
+                    <mZ value="8.63938" />
+                </Point>
+                <Point>
+                    <mX value="1.33963" />
+                    <mY value="-0.554891" />
+                    <mZ value="9.42478" />
+                </Point>
+                <Point>
+                    <mX value="2.55" />
+                    <mY value="0" />
+                    <mZ value="10.2102" />
+                </Point>
+                <Point>
+                    <mX value="2.35589" />
+                    <mY value="0.975843" />
+                    <mZ value="10.9956" />
+                </Point>
+                <Point>
+                    <mX value="1.0253" />
+                    <mY value="1.0253" />
+                    <mZ value="11.781" />
+                </Point>
+                <Point>
+                    <mX value="0.554891" />
+                    <mY value="1.33963" />
+                    <mZ value="12.5664" />
+                </Point>
+                <Point>
+                    <mX value="1.56142e-16" />
+                    <mY value="2.55" />
+                    <mZ value="13.3518" />
+                </Point>
+            </Fibre>
+        </Yarn>
+        <Yarn>
+            <mName value="G0_Carrier_4" />
+            <numberOfFibres value="1" />
+            <Fibre>
+                <mName value="Gr_0_Car_4_F_0" />
+                <mDiameter value="1" />
+                <mRed value="128" />
+                <mGreen value="128" />
+                <mBlue value="255" />
+                <numberOfPoints value="17" />
+                <Point>
+                    <mX value="-1.0253" />
+                    <mY value="1.0253" />
+                    <mZ value="0.785398" />
+                </Point>
+                <Point>
+                    <mX value="-1.33963" />
+                    <mY value="0.554891" />
+                    <mZ value="1.5708" />
+                </Point>
+                <Point>
+                    <mX value="-2.55" />
+                    <mY value="3.12285e-16" />
+                    <mZ value="2.35619" />
+                </Point>
+                <Point>
+                    <mX value="-2.35589" />
+                    <mY value="-0.975843" />
+                    <mZ value="3.14159" />
+                </Point>
+                <Point>
+                    <mX value="-1.0253" />
+                    <mY value="-1.0253" />
+                    <mZ value="3.92699" />
+                </Point>
+                <Point>
+                    <mX value="-0.554891" />
+                    <mY value="-1.33963" />
+                    <mZ value="4.71239" />
+                </Point>
+                <Point>
+                    <mX value="-4.68427e-16" />
+                    <mY value="-2.55" />
+                    <mZ value="5.49779" />
+                </Point>
+                <Point>
+                    <mX value="0.975843" />
+                    <mY value="-2.35589" />
+                    <mZ value="6.28319" />
+                </Point>
+                <Point>
+                    <mX value="1.0253" />
+                    <mY value="-1.0253" />
+                    <mZ value="7.06858" />
+                </Point>
+                <Point>
+                    <mX value="1.33963" />
+                    <mY value="-0.554891" />
+                    <mZ value="7.85398" />
+                </Point>
+                <Point>
+                    <mX value="2.55" />
+                    <mY value="0" />
+                    <mZ value="8.63938" />
+                </Point>
+                <Point>
+                    <mX value="2.35589" />
+                    <mY value="0.975843" />
+                    <mZ value="9.42478" />
+                </Point>
+                <Point>
+                    <mX value="1.0253" />
+                    <mY value="1.0253" />
+                    <mZ value="10.2102" />
+                </Point>
+                <Point>
+                    <mX value="0.554891" />
+                    <mY value="1.33963" />
+                    <mZ value="10.9956" />
+                </Point>
+                <Point>
+                    <mX value="1.56142e-16" />
+                    <mY value="2.55" />
+                    <mZ value="11.781" />
+                </Point>
+                <Point>
+                    <mX value="-0.975843" />
+                    <mY value="2.35589" />
+                    <mZ value="12.5664" />
+                </Point>
+                <Point>
+                    <mX value="-1.0253" />
+                    <mY value="1.0253" />
+                    <mZ value="13.3518" />
+                </Point>
+            </Fibre>
+        </Yarn>
+        <Yarn>
+            <mName value="G0_Carrier_5" />
+            <numberOfFibres value="1" />
+            <Fibre>
+                <mName value="Gr_0_Car_5_F_0" />
+                <mDiameter value="1" />
+                <mRed value="128" />
+                <mGreen value="128" />
+                <mBlue value="255" />
+                <numberOfPoints value="17" />
+                <Point>
+                    <mX value="-2.55" />
+                    <mY value="3.12285e-16" />
+                    <mZ value="0.785398" />
+                </Point>
+                <Point>
+                    <mX value="-2.35589" />
+                    <mY value="-0.975843" />
+                    <mZ value="1.5708" />
+                </Point>
+                <Point>
+                    <mX value="-1.0253" />
+                    <mY value="-1.0253" />
+                    <mZ value="2.35619" />
+                </Point>
+                <Point>
+                    <mX value="-0.554891" />
+                    <mY value="-1.33963" />
+                    <mZ value="3.14159" />
+                </Point>
+                <Point>
+                    <mX value="-4.68427e-16" />
+                    <mY value="-2.55" />
+                    <mZ value="3.92699" />
+                </Point>
+                <Point>
+                    <mX value="0.975843" />
+                    <mY value="-2.35589" />
+                    <mZ value="4.71239" />
+                </Point>
+                <Point>
+                    <mX value="1.0253" />
+                    <mY value="-1.0253" />
+                    <mZ value="5.49779" />
+                </Point>
+                <Point>
+                    <mX value="1.33963" />
+                    <mY value="-0.554891" />
+                    <mZ value="6.28319" />
+                </Point>
+                <Point>
+                    <mX value="2.55" />
+                    <mY value="0" />
+                    <mZ value="7.06858" />
+                </Point>
+                <Point>
+                    <mX value="2.35589" />
+                    <mY value="0.975843" />
+                    <mZ value="7.85398" />
+                </Point>
+                <Point>
+                    <mX value="1.0253" />
+                    <mY value="1.0253" />
+                    <mZ value="8.63938" />
+                </Point>
+                <Point>
+                    <mX value="0.554891" />
+                    <mY value="1.33963" />
+                    <mZ value="9.42478" />
+                </Point>
+                <Point>
+                    <mX value="1.56142e-16" />
+                    <mY value="2.55" />
+                    <mZ value="10.2102" />
+                </Point>
+                <Point>
+                    <mX value="-0.975843" />
+                    <mY value="2.35589" />
+                    <mZ value="10.9956" />
+                </Point>
+                <Point>
+                    <mX value="-1.0253" />
+                    <mY value="1.0253" />
+                    <mZ value="11.781" />
+                </Point>
+                <Point>
+                    <mX value="-1.33963" />
+                    <mY value="0.554891" />
+                    <mZ value="12.5664" />
+                </Point>
+                <Point>
+                    <mX value="-2.55" />
+                    <mY value="3.12285e-16" />
+                    <mZ value="13.3518" />
+                </Point>
+            </Fibre>
+        </Yarn>
+        <Yarn>
+            <mName value="G0_Carrier_6" />
+            <numberOfFibres value="1" />
+            <Fibre>
+                <mName value="Gr_0_Car_6_F_0" />
+                <mDiameter value="1" />
+                <mRed value="128" />
+                <mGreen value="128" />
+                <mBlue value="255" />
+                <numberOfPoints value="17" />
+                <Point>
+                    <mX value="-1.0253" />
+                    <mY value="-1.0253" />
+                    <mZ value="0.785398" />
+                </Point>
+                <Point>
+                    <mX value="-0.554891" />
+                    <mY value="-1.33963" />
+                    <mZ value="1.5708" />
+                </Point>
+                <Point>
+                    <mX value="-4.68427e-16" />
+                    <mY value="-2.55" />
+                    <mZ value="2.35619" />
+                </Point>
+                <Point>
+                    <mX value="0.975843" />
+                    <mY value="-2.35589" />
+                    <mZ value="3.14159" />
+                </Point>
+                <Point>
+                    <mX value="1.0253" />
+                    <mY value="-1.0253" />
+                    <mZ value="3.92699" />
+                </Point>
+                <Point>
+                    <mX value="1.33963" />
+                    <mY value="-0.554891" />
+                    <mZ value="4.71239" />
+                </Point>
+                <Point>
+                    <mX value="2.55" />
+                    <mY value="0" />
+                    <mZ value="5.49779" />
+                </Point>
+                <Point>
+                    <mX value="2.35589" />
+                    <mY value="0.975843" />
+                    <mZ value="6.28319" />
+                </Point>
+                <Point>
+                    <mX value="1.0253" />
+                    <mY value="1.0253" />
+                    <mZ value="7.06858" />
+                </Point>
+                <Point>
+                    <mX value="0.554891" />
+                    <mY value="1.33963" />
+                    <mZ value="7.85398" />
+                </Point>
+                <Point>
+                    <mX value="1.56142e-16" />
+                    <mY value="2.55" />
+                    <mZ value="8.63938" />
+                </Point>
+                <Point>
+                    <mX value="-0.975843" />
+                    <mY value="2.35589" />
+                    <mZ value="9.42478" />
+                </Point>
+                <Point>
+                    <mX value="-1.0253" />
+                    <mY value="1.0253" />
+                    <mZ value="10.2102" />
+                </Point>
+                <Point>
+                    <mX value="-1.33963" />
+                    <mY value="0.554891" />
+                    <mZ value="10.9956" />
+                </Point>
+                <Point>
+                    <mX value="-2.55" />
+                    <mY value="3.12285e-16" />
+                    <mZ value="11.781" />
+                </Point>
+                <Point>
+                    <mX value="-2.35589" />
+                    <mY value="-0.975843" />
+                    <mZ value="12.5664" />
+                </Point>
+                <Point>
+                    <mX value="-1.0253" />
+                    <mY value="-1.0253" />
+                    <mZ value="13.3518" />
+                </Point>
+            </Fibre>
+        </Yarn>
+        <Yarn>
+            <mName value="G0_Carrier_7" />
+            <numberOfFibres value="1" />
+            <Fibre>
+                <mName value="Gr_0_Car_7_F_0" />
+                <mDiameter value="1" />
+                <mRed value="128" />
+                <mGreen value="128" />
+                <mBlue value="255" />
+                <numberOfPoints value="17" />
+                <Point>
+                    <mX value="-4.68427e-16" />
+                    <mY value="-2.55" />
+                    <mZ value="0.785398" />
+                </Point>
+                <Point>
+                    <mX value="0.975843" />
+                    <mY value="-2.35589" />
+                    <mZ value="1.5708" />
+                </Point>
+                <Point>
+                    <mX value="1.0253" />
+                    <mY value="-1.0253" />
+                    <mZ value="2.35619" />
+                </Point>
+                <Point>
+                    <mX value="1.33963" />
+                    <mY value="-0.554891" />
+                    <mZ value="3.14159" />
+                </Point>
+                <Point>
+                    <mX value="2.55" />
+                    <mY value="0" />
+                    <mZ value="3.92699" />
+                </Point>
+                <Point>
+                    <mX value="2.35589" />
+                    <mY value="0.975843" />
+                    <mZ value="4.71239" />
+                </Point>
+                <Point>
+                    <mX value="1.0253" />
+                    <mY value="1.0253" />
+                    <mZ value="5.49779" />
+                </Point>
+                <Point>
+                    <mX value="0.554891" />
+                    <mY value="1.33963" />
+                    <mZ value="6.28319" />
+                </Point>
+                <Point>
+                    <mX value="1.56142e-16" />
+                    <mY value="2.55" />
+                    <mZ value="7.06858" />
+                </Point>
+                <Point>
+                    <mX value="-0.975843" />
+                    <mY value="2.35589" />
+                    <mZ value="7.85398" />
+                </Point>
+                <Point>
+                    <mX value="-1.0253" />
+                    <mY value="1.0253" />
+                    <mZ value="8.63938" />
+                </Point>
+                <Point>
+                    <mX value="-1.33963" />
+                    <mY value="0.554891" />
+                    <mZ value="9.42478" />
+                </Point>
+                <Point>
+                    <mX value="-2.55" />
+                    <mY value="3.12285e-16" />
+                    <mZ value="10.2102" />
+                </Point>
+                <Point>
+                    <mX value="-2.35589" />
+                    <mY value="-0.975843" />
+                    <mZ value="10.9956" />
+                </Point>
+                <Point>
+                    <mX value="-1.0253" />
+                    <mY value="-1.0253" />
+                    <mZ value="11.781" />
+                </Point>
+                <Point>
+                    <mX value="-0.554891" />
+                    <mY value="-1.33963" />
+                    <mZ value="12.5664" />
+                </Point>
+                <Point>
+                    <mX value="-4.68427e-16" />
+                    <mY value="-2.55" />
+                    <mZ value="13.3518" />
+                </Point>
+            </Fibre>
+        </Yarn>
+        <Yarn>
+            <mName value="G0_Carrier_8" />
+            <numberOfFibres value="1" />
+            <Fibre>
+                <mName value="Gr_0_Car_8_F_0" />
+                <mDiameter value="1" />
+                <mRed value="128" />
+                <mGreen value="128" />
+                <mBlue value="255" />
+                <numberOfPoints value="17" />
+                <Point>
+                    <mX value="1.0253" />
+                    <mY value="-1.0253" />
+                    <mZ value="0.785398" />
+                </Point>
+                <Point>
+                    <mX value="1.33963" />
+                    <mY value="-0.554891" />
+                    <mZ value="1.5708" />
+                </Point>
+                <Point>
+                    <mX value="2.55" />
+                    <mY value="0" />
+                    <mZ value="2.35619" />
+                </Point>
+                <Point>
+                    <mX value="2.35589" />
+                    <mY value="0.975843" />
+                    <mZ value="3.14159" />
+                </Point>
+                <Point>
+                    <mX value="1.0253" />
+                    <mY value="1.0253" />
+                    <mZ value="3.92699" />
+                </Point>
+                <Point>
+                    <mX value="0.554891" />
+                    <mY value="1.33963" />
+                    <mZ value="4.71239" />
+                </Point>
+                <Point>
+                    <mX value="1.56142e-16" />
+                    <mY value="2.55" />
+                    <mZ value="5.49779" />
+                </Point>
+                <Point>
+                    <mX value="-0.975843" />
+                    <mY value="2.35589" />
+                    <mZ value="6.28319" />
+                </Point>
+                <Point>
+                    <mX value="-1.0253" />
+                    <mY value="1.0253" />
+                    <mZ value="7.06858" />
+                </Point>
+                <Point>
+                    <mX value="-1.33963" />
+                    <mY value="0.554891" />
+                    <mZ value="7.85398" />
+                </Point>
+                <Point>
+                    <mX value="-2.55" />
+                    <mY value="3.12285e-16" />
+                    <mZ value="8.63938" />
+                </Point>
+                <Point>
+                    <mX value="-2.35589" />
+                    <mY value="-0.975843" />
+                    <mZ value="9.42478" />
+                </Point>
+                <Point>
+                    <mX value="-1.0253" />
+                    <mY value="-1.0253" />
+                    <mZ value="10.2102" />
+                </Point>
+                <Point>
+                    <mX value="-0.554891" />
+                    <mY value="-1.33963" />
+                    <mZ value="10.9956" />
+                </Point>
+                <Point>
+                    <mX value="-4.68427e-16" />
+                    <mY value="-2.55" />
+                    <mZ value="11.781" />
+                </Point>
+                <Point>
+                    <mX value="0.975843" />
+                    <mY value="-2.35589" />
+                    <mZ value="12.5664" />
+                </Point>
+                <Point>
+                    <mX value="1.0253" />
+                    <mY value="-1.0253" />
+                    <mZ value="13.3518" />
+                </Point>
+            </Fibre>
+        </Yarn>
+    </YarnGroup>
+    <YarnGroup>
+        <mName value="Group_1" />
+        <numberOfYarns value="8" />
+        <Yarn>
+            <mName value="G1_Carrier_1" />
+            <numberOfFibres value="1" />
+            <Fibre>
+                <mName value="Gr_1_Car_1_F_0" />
+                <mDiameter value="1" />
+                <mRed value="255" />
+                <mGreen value="255" />
+                <mBlue value="0" />
+                <numberOfPoints value="17" />
+                <Point>
+                    <mX value="1.45" />
+                    <mY value="0" />
+                    <mZ value="0.785398" />
+                </Point>
+                <Point>
+                    <mX value="2.35589" />
+                    <mY value="-0.975843" />
+                    <mZ value="1.5708" />
+                </Point>
+                <Point>
+                    <mX value="1.80312" />
+                    <mY value="-1.80312" />
+                    <mZ value="2.35619" />
+                </Point>
+                <Point>
+                    <mX value="0.554891" />
+                    <mY value="-1.33963" />
+                    <mZ value="3.14159" />
+                </Point>
+                <Point>
+                    <mX value="-2.66361e-16" />
+                    <mY value="-1.45" />
+                    <mZ value="3.92699" />
+                </Point>
+                <Point>
+                    <mX value="-0.975843" />
+                    <mY value="-2.35589" />
+                    <mZ value="4.71239" />
+                </Point>
+                <Point>
+                    <mX value="-1.80312" />
+                    <mY value="-1.80312" />
+                    <mZ value="5.49779" />
+                </Point>
+                <Point>
+                    <mX value="-1.33963" />
+                    <mY value="-0.554891" />
+                    <mZ value="6.28319" />
+                </Point>
+                <Point>
+                    <mX value="-1.45" />
+                    <mY value="1.77574e-16" />
+                    <mZ value="7.06858" />
+                </Point>
+                <Point>
+                    <mX value="-2.35589" />
+                    <mY value="0.975843" />
+                    <mZ value="7.85398" />
+                </Point>
+                <Point>
+                    <mX value="-1.80312" />
+                    <mY value="1.80312" />
+                    <mZ value="8.63938" />
+                </Point>
+                <Point>
+                    <mX value="-0.554891" />
+                    <mY value="1.33963" />
+                    <mZ value="9.42478" />
+                </Point>
+                <Point>
+                    <mX value="8.87869e-17" />
+                    <mY value="1.45" />
+                    <mZ value="10.2102" />
+                </Point>
+                <Point>
+                    <mX value="0.975843" />
+                    <mY value="2.35589" />
+                    <mZ value="10.9956" />
+                </Point>
+                <Point>
+                    <mX value="1.80312" />
+                    <mY value="1.80312" />
+                    <mZ value="11.781" />
+                </Point>
+                <Point>
+                    <mX value="1.33963" />
+                    <mY value="0.554891" />
+                    <mZ value="12.5664" />
+                </Point>
+                <Point>
+                    <mX value="1.45" />
+                    <mY value="0" />
+                    <mZ value="13.3518" />
+                </Point>
+            </Fibre>
+        </Yarn>
+        <Yarn>
+            <mName value="G1_Carrier_2" />
+            <numberOfFibres value="1" />
+            <Fibre>
+                <mName value="Gr_1_Car_2_F_0" />
+                <mDiameter value="1" />
+                <mRed value="0" />
+                <mGreen value="255" />
+                <mBlue value="0" />
+                <numberOfPoints value="17" />
+                <Point>
+                    <mX value="1.80312" />
+                    <mY value="1.80312" />
+                    <mZ value="0.785398" />
+                </Point>
+                <Point>
+                    <mX value="1.33963" />
+                    <mY value="0.554891" />
+                    <mZ value="1.5708" />
+                </Point>
+                <Point>
+                    <mX value="1.45" />
+                    <mY value="0" />
+                    <mZ value="2.35619" />
+                </Point>
+                <Point>
+                    <mX value="2.35589" />
+                    <mY value="-0.975843" />
+                    <mZ value="3.14159" />
+                </Point>
+                <Point>
+                    <mX value="1.80312" />
+                    <mY value="-1.80312" />
+                    <mZ value="3.92699" />
+                </Point>
+                <Point>
+                    <mX value="0.554891" />
+                    <mY value="-1.33963" />
+                    <mZ value="4.71239" />
+                </Point>
+                <Point>
+                    <mX value="-2.66361e-16" />
+                    <mY value="-1.45" />
+                    <mZ value="5.49779" />
+                </Point>
+                <Point>
+                    <mX value="-0.975843" />
+                    <mY value="-2.35589" />
+                    <mZ value="6.28319" />
+                </Point>
+                <Point>
+                    <mX value="-1.80312" />
+                    <mY value="-1.80312" />
+                    <mZ value="7.06858" />
+                </Point>
+                <Point>
+                    <mX value="-1.33963" />
+                    <mY value="-0.554891" />
+                    <mZ value="7.85398" />
+                </Point>
+                <Point>
+                    <mX value="-1.45" />
+                    <mY value="1.77574e-16" />
+                    <mZ value="8.63938" />
+                </Point>
+                <Point>
+                    <mX value="-2.35589" />
+                    <mY value="0.975843" />
+                    <mZ value="9.42478" />
+                </Point>
+                <Point>
+                    <mX value="-1.80312" />
+                    <mY value="1.80312" />
+                    <mZ value="10.2102" />
+                </Point>
+                <Point>
+                    <mX value="-0.554891" />
+                    <mY value="1.33963" />
+                    <mZ value="10.9956" />
+                </Point>
+                <Point>
+                    <mX value="8.87869e-17" />
+                    <mY value="1.45" />
+                    <mZ value="11.781" />
+                </Point>
+                <Point>
+                    <mX value="0.975843" />
+                    <mY value="2.35589" />
+                    <mZ value="12.5664" />
+                </Point>
+                <Point>
+                    <mX value="1.80312" />
+                    <mY value="1.80312" />
+                    <mZ value="13.3518" />
+                </Point>
+            </Fibre>
+        </Yarn>
+        <Yarn>
+            <mName value="G1_Carrier_3" />
+            <numberOfFibres value="1" />
+            <Fibre>
+                <mName value="Gr_1_Car_3_F_0" />
+                <mDiameter value="1" />
+                <mRed value="0" />
+                <mGreen value="255" />
+                <mBlue value="0" />
+                <numberOfPoints value="17" />
+                <Point>
+                    <mX value="8.87869e-17" />
+                    <mY value="1.45" />
+                    <mZ value="0.785398" />
+                </Point>
+                <Point>
+                    <mX value="0.975843" />
+                    <mY value="2.35589" />
+                    <mZ value="1.5708" />
+                </Point>
+                <Point>
+                    <mX value="1.80312" />
+                    <mY value="1.80312" />
+                    <mZ value="2.35619" />
+                </Point>
+                <Point>
+                    <mX value="1.33963" />
+                    <mY value="0.554891" />
+                    <mZ value="3.14159" />
+                </Point>
+                <Point>
+                    <mX value="1.45" />
+                    <mY value="0" />
+                    <mZ value="3.92699" />
+                </Point>
+                <Point>
+                    <mX value="2.35589" />
+                    <mY value="-0.975843" />
+                    <mZ value="4.71239" />
+                </Point>
+                <Point>
+                    <mX value="1.80312" />
+                    <mY value="-1.80312" />
+                    <mZ value="5.49779" />
+                </Point>
+                <Point>
+                    <mX value="0.554891" />
+                    <mY value="-1.33963" />
+                    <mZ value="6.28319" />
+                </Point>
+                <Point>
+                    <mX value="-2.66361e-16" />
+                    <mY value="-1.45" />
+                    <mZ value="7.06858" />
+                </Point>
+                <Point>
+                    <mX value="-0.975843" />
+                    <mY value="-2.35589" />
+                    <mZ value="7.85398" />
+                </Point>
+                <Point>
+                    <mX value="-1.80312" />
+                    <mY value="-1.80312" />
+                    <mZ value="8.63938" />
+                </Point>
+                <Point>
+                    <mX value="-1.33963" />
+                    <mY value="-0.554891" />
+                    <mZ value="9.42478" />
+                </Point>
+                <Point>
+                    <mX value="-1.45" />
+                    <mY value="1.77574e-16" />
+                    <mZ value="10.2102" />
+                </Point>
+                <Point>
+                    <mX value="-2.35589" />
+                    <mY value="0.975843" />
+                    <mZ value="10.9956" />
+                </Point>
+                <Point>
+                    <mX value="-1.80312" />
+                    <mY value="1.80312" />
+                    <mZ value="11.781" />
+                </Point>
+                <Point>
+                    <mX value="-0.554891" />
+                    <mY value="1.33963" />
+                    <mZ value="12.5664" />
+                </Point>
+                <Point>
+                    <mX value="8.87869e-17" />
+                    <mY value="1.45" />
+                    <mZ value="13.3518" />
+                </Point>
+            </Fibre>
+        </Yarn>
+        <Yarn>
+            <mName value="G1_Carrier_4" />
+            <numberOfFibres value="1" />
+            <Fibre>
+                <mName value="Gr_1_Car_4_F_0" />
+                <mDiameter value="1" />
+                <mRed value="128" />
+                <mGreen value="128" />
+                <mBlue value="255" />
+                <numberOfPoints value="17" />
+                <Point>
+                    <mX value="-1.80312" />
+                    <mY value="1.80312" />
+                    <mZ value="0.785398" />
+                </Point>
+                <Point>
+                    <mX value="-0.554891" />
+                    <mY value="1.33963" />
+                    <mZ value="1.5708" />
+                </Point>
+                <Point>
+                    <mX value="8.87869e-17" />
+                    <mY value="1.45" />
+                    <mZ value="2.35619" />
+                </Point>
+                <Point>
+                    <mX value="0.975843" />
+                    <mY value="2.35589" />
+                    <mZ value="3.14159" />
+                </Point>
+                <Point>
+                    <mX value="1.80312" />
+                    <mY value="1.80312" />
+                    <mZ value="3.92699" />
+                </Point>
+                <Point>
+                    <mX value="1.33963" />
+                    <mY value="0.554891" />
+                    <mZ value="4.71239" />
+                </Point>
+                <Point>
+                    <mX value="1.45" />
+                    <mY value="0" />
+                    <mZ value="5.49779" />
+                </Point>
+                <Point>
+                    <mX value="2.35589" />
+                    <mY value="-0.975843" />
+                    <mZ value="6.28319" />
+                </Point>
+                <Point>
+                    <mX value="1.80312" />
+                    <mY value="-1.80312" />
+                    <mZ value="7.06858" />
+                </Point>
+                <Point>
+                    <mX value="0.554891" />
+                    <mY value="-1.33963" />
+                    <mZ value="7.85398" />
+                </Point>
+                <Point>
+                    <mX value="-2.66361e-16" />
+                    <mY value="-1.45" />
+                    <mZ value="8.63938" />
+                </Point>
+                <Point>
+                    <mX value="-0.975843" />
+                    <mY value="-2.35589" />
+                    <mZ value="9.42478" />
+                </Point>
+                <Point>
+                    <mX value="-1.80312" />
+                    <mY value="-1.80312" />
+                    <mZ value="10.2102" />
+                </Point>
+                <Point>
+                    <mX value="-1.33963" />
+                    <mY value="-0.554891" />
+                    <mZ value="10.9956" />
+                </Point>
+                <Point>
+                    <mX value="-1.45" />
+                    <mY value="1.77574e-16" />
+                    <mZ value="11.781" />
+                </Point>
+                <Point>
+                    <mX value="-2.35589" />
+                    <mY value="0.975843" />
+                    <mZ value="12.5664" />
+                </Point>
+                <Point>
+                    <mX value="-1.80312" />
+                    <mY value="1.80312" />
+                    <mZ value="13.3518" />
+                </Point>
+            </Fibre>
+        </Yarn>
+        <Yarn>
+            <mName value="G1_Carrier_5" />
+            <numberOfFibres value="1" />
+            <Fibre>
+                <mName value="Gr_1_Car_5_F_0" />
+                <mDiameter value="1" />
+                <mRed value="128" />
+                <mGreen value="128" />
+                <mBlue value="255" />
+                <numberOfPoints value="17" />
+                <Point>
+                    <mX value="-1.45" />
+                    <mY value="1.77574e-16" />
+                    <mZ value="0.785398" />
+                </Point>
+                <Point>
+                    <mX value="-2.35589" />
+                    <mY value="0.975843" />
+                    <mZ value="1.5708" />
+                </Point>
+                <Point>
+                    <mX value="-1.80312" />
+                    <mY value="1.80312" />
+                    <mZ value="2.35619" />
+                </Point>
+                <Point>
+                    <mX value="-0.554891" />
+                    <mY value="1.33963" />
+                    <mZ value="3.14159" />
+                </Point>
+                <Point>
+                    <mX value="8.87869e-17" />
+                    <mY value="1.45" />
+                    <mZ value="3.92699" />
+                </Point>
+                <Point>
+                    <mX value="0.975843" />
+                    <mY value="2.35589" />
+                    <mZ value="4.71239" />
+                </Point>
+                <Point>
+                    <mX value="1.80312" />
+                    <mY value="1.80312" />
+                    <mZ value="5.49779" />
+                </Point>
+                <Point>
+                    <mX value="1.33963" />
+                    <mY value="0.554891" />
+                    <mZ value="6.28319" />
+                </Point>
+                <Point>
+                    <mX value="1.45" />
+                    <mY value="0" />
+                    <mZ value="7.06858" />
+                </Point>
+                <Point>
+                    <mX value="2.35589" />
+                    <mY value="-0.975843" />
+                    <mZ value="7.85398" />
+                </Point>
+                <Point>
+                    <mX value="1.80312" />
+                    <mY value="-1.80312" />
+                    <mZ value="8.63938" />
+                </Point>
+                <Point>
+                    <mX value="0.554891" />
+                    <mY value="-1.33963" />
+                    <mZ value="9.42478" />
+                </Point>
+                <Point>
+                    <mX value="-2.66361e-16" />
+                    <mY value="-1.45" />
+                    <mZ value="10.2102" />
+                </Point>
+                <Point>
+                    <mX value="-0.975843" />
+                    <mY value="-2.35589" />
+                    <mZ value="10.9956" />
+                </Point>
+                <Point>
+                    <mX value="-1.80312" />
+                    <mY value="-1.80312" />
+                    <mZ value="11.781" />
+                </Point>
+                <Point>
+                    <mX value="-1.33963" />
+                    <mY value="-0.554891" />
+                    <mZ value="12.5664" />
+                </Point>
+                <Point>
+                    <mX value="-1.45" />
+                    <mY value="1.77574e-16" />
+                    <mZ value="13.3518" />
+                </Point>
+            </Fibre>
+        </Yarn>
+        <Yarn>
+            <mName value="G1_Carrier_6" />
+            <numberOfFibres value="1" />
+            <Fibre>
+                <mName value="Gr_1_Car_6_F_0" />
+                <mDiameter value="1" />
+                <mRed value="128" />
+                <mGreen value="128" />
+                <mBlue value="255" />
+                <numberOfPoints value="17" />
+                <Point>
+                    <mX value="-1.80312" />
+                    <mY value="-1.80312" />
+                    <mZ value="0.785398" />
+                </Point>
+                <Point>
+                    <mX value="-1.33963" />
+                    <mY value="-0.554891" />
+                    <mZ value="1.5708" />
+                </Point>
+                <Point>
+                    <mX value="-1.45" />
+                    <mY value="1.77574e-16" />
+                    <mZ value="2.35619" />
+                </Point>
+                <Point>
+                    <mX value="-2.35589" />
+                    <mY value="0.975843" />
+                    <mZ value="3.14159" />
+                </Point>
+                <Point>
+                    <mX value="-1.80312" />
+                    <mY value="1.80312" />
+                    <mZ value="3.92699" />
+                </Point>
+                <Point>
+                    <mX value="-0.554891" />
+                    <mY value="1.33963" />
+                    <mZ value="4.71239" />
+                </Point>
+                <Point>
+                    <mX value="8.87869e-17" />
+                    <mY value="1.45" />
+                    <mZ value="5.49779" />
+                </Point>
+                <Point>
+                    <mX value="0.975843" />
+                    <mY value="2.35589" />
+                    <mZ value="6.28319" />
+                </Point>
+                <Point>
+                    <mX value="1.80312" />
+                    <mY value="1.80312" />
+                    <mZ value="7.06858" />
+                </Point>
+                <Point>
+                    <mX value="1.33963" />
+                    <mY value="0.554891" />
+                    <mZ value="7.85398" />
+                </Point>
+                <Point>
+                    <mX value="1.45" />
+                    <mY value="0" />
+                    <mZ value="8.63938" />
+                </Point>
+                <Point>
+                    <mX value="2.35589" />
+                    <mY value="-0.975843" />
+                    <mZ value="9.42478" />
+                </Point>
+                <Point>
+                    <mX value="1.80312" />
+                    <mY value="-1.80312" />
+                    <mZ value="10.2102" />
+                </Point>
+                <Point>
+                    <mX value="0.554891" />
+                    <mY value="-1.33963" />
+                    <mZ value="10.9956" />
+                </Point>
+                <Point>
+                    <mX value="-2.66361e-16" />
+                    <mY value="-1.45" />
+                    <mZ value="11.781" />
+                </Point>
+                <Point>
+                    <mX value="-0.975843" />
+                    <mY value="-2.35589" />
+                    <mZ value="12.5664" />
+                </Point>
+                <Point>
+                    <mX value="-1.80312" />
+                    <mY value="-1.80312" />
+                    <mZ value="13.3518" />
+                </Point>
+            </Fibre>
+        </Yarn>
+        <Yarn>
+            <mName value="G1_Carrier_7" />
+            <numberOfFibres value="1" />
+            <Fibre>
+                <mName value="Gr_1_Car_7_F_0" />
+                <mDiameter value="1" />
+                <mRed value="128" />
+                <mGreen value="128" />
+                <mBlue value="255" />
+                <numberOfPoints value="17" />
+                <Point>
+                    <mX value="-2.66361e-16" />
+                    <mY value="-1.45" />
+                    <mZ value="0.785398" />
+                </Point>
+                <Point>
+                    <mX value="-0.975843" />
+                    <mY value="-2.35589" />
+                    <mZ value="1.5708" />
+                </Point>
+                <Point>
+                    <mX value="-1.80312" />
+                    <mY value="-1.80312" />
+                    <mZ value="2.35619" />
+                </Point>
+                <Point>
+                    <mX value="-1.33963" />
+                    <mY value="-0.554891" />
+                    <mZ value="3.14159" />
+                </Point>
+                <Point>
+                    <mX value="-1.45" />
+                    <mY value="1.77574e-16" />
+                    <mZ value="3.92699" />
+                </Point>
+                <Point>
+                    <mX value="-2.35589" />
+                    <mY value="0.975843" />
+                    <mZ value="4.71239" />
+                </Point>
+                <Point>
+                    <mX value="-1.80312" />
+                    <mY value="1.80312" />
+                    <mZ value="5.49779" />
+                </Point>
+                <Point>
+                    <mX value="-0.554891" />
+                    <mY value="1.33963" />
+                    <mZ value="6.28319" />
+                </Point>
+                <Point>
+                    <mX value="8.87869e-17" />
+                    <mY value="1.45" />
+                    <mZ value="7.06858" />
+                </Point>
+                <Point>
+                    <mX value="0.975843" />
+                    <mY value="2.35589" />
+                    <mZ value="7.85398" />
+                </Point>
+                <Point>
+                    <mX value="1.80312" />
+                    <mY value="1.80312" />
+                    <mZ value="8.63938" />
+                </Point>
+                <Point>
+                    <mX value="1.33963" />
+                    <mY value="0.554891" />
+                    <mZ value="9.42478" />
+                </Point>
+                <Point>
+                    <mX value="1.45" />
+                    <mY value="0" />
+                    <mZ value="10.2102" />
+                </Point>
+                <Point>
+                    <mX value="2.35589" />
+                    <mY value="-0.975843" />
+                    <mZ value="10.9956" />
+                </Point>
+                <Point>
+                    <mX value="1.80312" />
+                    <mY value="-1.80312" />
+                    <mZ value="11.781" />
+                </Point>
+                <Point>
+                    <mX value="0.554891" />
+                    <mY value="-1.33963" />
+                    <mZ value="12.5664" />
+                </Point>
+                <Point>
+                    <mX value="-2.66361e-16" />
+                    <mY value="-1.45" />
+                    <mZ value="13.3518" />
+                </Point>
+            </Fibre>
+        </Yarn>
+        <Yarn>
+            <mName value="G1_Carrier_8" />
+            <numberOfFibres value="1" />
+            <Fibre>
+                <mName value="Gr_1_Car_8_F_0" />
+                <mDiameter value="1" />
+                <mRed value="128" />
+                <mGreen value="128" />
+                <mBlue value="255" />
+                <numberOfPoints value="17" />
+                <Point>
+                    <mX value="1.80312" />
+                    <mY value="-1.80312" />
+                    <mZ value="0.785398" />
+                </Point>
+                <Point>
+                    <mX value="0.554891" />
+                    <mY value="-1.33963" />
+                    <mZ value="1.5708" />
+                </Point>
+                <Point>
+                    <mX value="-2.66361e-16" />
+                    <mY value="-1.45" />
+                    <mZ value="2.35619" />
+                </Point>
+                <Point>
+                    <mX value="-0.975843" />
+                    <mY value="-2.35589" />
+                    <mZ value="3.14159" />
+                </Point>
+                <Point>
+                    <mX value="-1.80312" />
+                    <mY value="-1.80312" />
+                    <mZ value="3.92699" />
+                </Point>
+                <Point>
+                    <mX value="-1.33963" />
+                    <mY value="-0.554891" />
+                    <mZ value="4.71239" />
+                </Point>
+                <Point>
+                    <mX value="-1.45" />
+                    <mY value="1.77574e-16" />
+                    <mZ value="5.49779" />
+                </Point>
+                <Point>
+                    <mX value="-2.35589" />
+                    <mY value="0.975843" />
+                    <mZ value="6.28319" />
+                </Point>
+                <Point>
+                    <mX value="-1.80312" />
+                    <mY value="1.80312" />
+                    <mZ value="7.06858" />
+                </Point>
+                <Point>
+                    <mX value="-0.554891" />
+                    <mY value="1.33963" />
+                    <mZ value="7.85398" />
+                </Point>
+                <Point>
+                    <mX value="8.87869e-17" />
+                    <mY value="1.45" />
+                    <mZ value="8.63938" />
+                </Point>
+                <Point>
+                    <mX value="0.975843" />
+                    <mY value="2.35589" />
+                    <mZ value="9.42478" />
+                </Point>
+                <Point>
+                    <mX value="1.80312" />
+                    <mY value="1.80312" />
+                    <mZ value="10.2102" />
+                </Point>
+                <Point>
+                    <mX value="1.33963" />
+                    <mY value="0.554891" />
+                    <mZ value="10.9956" />
+                </Point>
+                <Point>
+                    <mX value="1.45" />
+                    <mY value="0" />
+                    <mZ value="11.781" />
+                </Point>
+                <Point>
+                    <mX value="2.35589" />
+                    <mY value="-0.975843" />
+                    <mZ value="12.5664" />
+                </Point>
+                <Point>
+                    <mX value="1.80312" />
+                    <mY value="-1.80312" />
+                    <mZ value="13.3518" />
+                </Point>
+            </Fibre>
+        </Yarn>
+    </YarnGroup>
+    <YarnGroup>
+        <mName value="Inlay" />
+        <numberOfYarns value="0" />
+    </YarnGroup>
+    <YarnGroup>
+        <mName value="Core" />
+        <numberOfYarns value="0" />
+    </YarnGroup>
+</TextileStructure>
